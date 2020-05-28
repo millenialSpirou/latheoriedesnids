@@ -1,0 +1,17 @@
+#+title: plan theorie des nids
+#+author : frederic Boileau
+
+* structure
+** idylle d'ete avec jolie
+** automne maussade
+** hiver avec jade
+** printemps : parano
+** ete: acceptance, mindfullness
+* personnages:
+cedric: perdu entre hobo et bobo
+jolie: douce , 25 ans, calme
+jade: poete/escorte 22 ans, venus
+joe: designer graphique, teint olive, cheveux boucles noirs
+david : ingenieur blond
+fernando
+carlos
